@@ -2,7 +2,7 @@
  * @name GetAllBadges
  * @version 1.0.0
  * @description A little plugin to get all Discord badges
- * @author PiciAkk
+ * @author MysticalHearts
  * @website https://github.com/PiciAkk/GetAllBadges
  */
  module.exports = class GetAllBadges {
